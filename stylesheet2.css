@@ -1,0 +1,29 @@
+.header {
+    padding-top: 5% ;
+    margin:  0;
+    text-align: center ;
+}
+
+header {
+    height: 150px;
+    width: 100%;
+}
+
+main{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+article {
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: justify;
+    color: blueviolet;
+}
+body{
+    display: contents;
+    height: 100%;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+}
